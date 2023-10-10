@@ -15,7 +15,10 @@
     <head>
         <title>Hunsnii orts nairlaga</title>
     </head>
+    <body>
     <h1>
         Хүнсний орц найрлага
     </h1>
+<table style="font-size:220%;class="center"> </table>
+</body>
 <html>
