@@ -14,21 +14,10 @@
     </style>
     <head>
         <title>Hunsnii orts nairlaga</title>
-       <style>
-     .card {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            max-width: 300px;
-            margin: auto;
-            text-align: center;
-            font-family: arial;
-          }
-   
-    </style>
     </head>
-    <body> <h1>
-        Хүнсний орц найрлага
-    </h1>
-    </body>
+    <body> 
+    <h1>Хүнсний орц найрлага</h1>
+  
     <table style="font-size:150%;"class="center">
         <tr><th>Төмс</th><th>Лууван</th><th>Байцаа</th></tr>
         <tr style="font-size: 100%;"><th>
@@ -61,6 +50,6 @@
 
 
             </th></tr>
-       
-    </table>
+       </table>
+</body>
 </html>  
