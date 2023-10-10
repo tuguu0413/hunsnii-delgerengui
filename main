@@ -33,10 +33,13 @@
             width: 100%;
             font-size: 18px;
           }
-          
+          .card button:hover {
+                opacity: 0.9;
+            } 
+    </style>
     </head>
-    <h1>
+   <body> <h1>
         Хүнсний орц найрлага
     </h1>
-  
+  </body>
 </html>  
